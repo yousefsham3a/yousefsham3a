@@ -1,8 +1,8 @@
 # Hi there, I'm Yousef ESAM! 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=00599C&height=150&section=header&text=Yousef%20ESAM&fontSize=50&animation=twinkling&fontColor=ffffff" width="100%" alt="Header">
-</p><img width="883" height="1280" alt="me" src="https://github.com/user-attachments/assets/83c1ee09-d98d-4b55-b588-5910d94b6985" />
+ </p><img width="883" height="1280" alt="me" src="https://github.com/user-attachments/assets/83c1ee09-d98d-4b55-b588-5910d94b6985" width="100%" alt="Header">
+ 
 
 
 <p align="center">
