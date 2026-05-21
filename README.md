@@ -1,9 +1,12 @@
 # Hi there, I'm Yousef ESAM! 👋
 
 <p align="center">
- </p><img width="883" height="1280" alt="me" src="https://github.com/user-attachments/assets/83c1ee09-d98d-4b55-b588-5910d94b6985" width="100%" alt="Header">
- 
+  <img src="https://github.com/yousefsham3a/photo/blob/main/me.jpg " alt="Yousef's Profile Picture" width="150" height="150" style="border-radius: 50%; border: 3px solid #00599C;">
+</p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00599C&height=150&section=header&text=Yousef%20ESAM&fontSize=50&animation=twinkling&fontColor=ffffff" width="100%" alt="Header">
+</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -64,7 +67,11 @@ When I'm not staring at terminal screens or analyzing logs, I express my creativ
 
 ---
 
- 
+### 📊 My GitHub Statistics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yousefsham3a&show_icons=true&bg_color=ffffff&title_color=00599C&text_color=434d58&icon_color=007acc&border_color=00599C" alt="Yousef's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousefsham3a&layout=compact&bg_color=ffffff&title_color=00599C&text_color=434d58&border_color=00599C" alt="Top Languages" />
+</p>
 
 ---
 
